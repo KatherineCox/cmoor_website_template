@@ -20,4 +20,5 @@ options(
 )
 
 # fix Hugo version
-options(blogdown.hugo.version = "0.47.1")
+options(blogdown.hugo.dir = '/usr/local/bin/hugo_0.74.3')
+# options(blogdown.hugo.version = "0.74.3")
