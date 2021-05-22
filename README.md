@@ -1,3 +1,3 @@
 # C-MOOR Website Template
 
-test
+test2
